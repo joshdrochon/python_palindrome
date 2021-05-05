@@ -14,5 +14,3 @@ class Solution(object):
 
 sol = Solution()
 
-print(sol.isPalindrome("A man, a plan, a canal: Panama"))
-
